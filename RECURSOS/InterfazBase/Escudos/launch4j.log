@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Oscar\Documents\NetBeansProjects\Launcher_Universae\RECURSOS\InterfazBase\Escudos\Launcher_Universae.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Oscar\Documents\NetBeansProjects\Launcher_Universae\RECURSOS\InterfazBase\Escudos\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files (x86)\Java\jre-1.8\bin
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\Oscar\AppData\Local\Microsoft\WindowsApps;C:\Users\Oscar\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Java\jre-1.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files (x86)\Java\jre-1.8\bin
+JRE paths:	C:\Program Files (x86)\Java\jre-1.8\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\AutoFirma\AutoFirma;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Git\cmd;C:\Users\Oscar\AppData\Local\Microsoft\WindowsApps;C:\Users\Oscar\AppData\Local\GitHubDesktop\bin;C:\Program Files (x86)\Java\jre-1.8\bin;C:\Program Files\Java\jdk-17\bin;;C:\Program Files (x86)\Java\jre-1.8\bin
+Check launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe (OK)
+Version string: 1.008.000_411 / 32-Bit (OK)
+Launcher:	C:\Program Files (x86)\Java\jre-1.8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Oscar\Documents\NetBeansProjects\Launcher_Universae\RECURSOS\InterfazBase\Escudos\Launcher_Universae.exe"
+Args length:	120/32768 chars
+Exit code:	0

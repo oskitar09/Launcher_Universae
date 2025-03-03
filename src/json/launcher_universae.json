@@ -1,0 +1,104 @@
+[
+    {
+        "rutas_escudo" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton5.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton6.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton7.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton8.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton9.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton10.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton11.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton12.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_base\\LauncherButton13.png"
+        ]
+        
+    },
+    {    
+        "rutas_home" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_home\\HomeButton0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_home\\HomeButton1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_home\\HomeButton2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_home\\HomeButton3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_home\\HomeButton4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_home\\HomeButton5.png"
+            ]
+    },
+    {    
+        "rutas_embarque" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_embarque\\Embarque0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_embarque\\Embarque1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_embarque\\Embarque2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_embarque\\Embarque3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_embarque\\Embarque4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_embarque\\Embarque5.png"
+            ]
+    },
+    {    
+        "rutas_hemorragia" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_hemorragia\\Hemorragia0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_hemorragia\\Hemorragia1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_hemorragia\\Hemorragia2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_hemorragia\\Hemorragia3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_hemorragia\\Hemorragia4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_hemorragia\\Hemorragia5.png"
+            ]
+    },
+    {    
+        "rutas_extincion" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_extincion\\Extincion0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_extincion\\Extincion1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_extincion\\Extincion2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_extincion\\Extincion3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_extincion\\Extincion4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_extincion\\Extincion5.png"
+            ]
+    },
+    {    
+        "rutas_epis" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_epis\\EPIS0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_epis\\EPIS1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_epis\\EPIS2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_epis\\EPIS3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_epis\\EPIS4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_epis\\EPIS5.png"
+            ]
+    },
+    {    
+        "rutas_helicoptero" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_helicoptero\\Helicoptero0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_helicoptero\\Helicoptero1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_helicoptero\\Helicoptero2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_helicoptero\\Helicoptero3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_helicoptero\\Helicoptero4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_helicoptero\\Helicoptero5.png"
+            ]
+    },
+    {    
+        "rutas_ascensor" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_ascensor\\Ascensor0.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_ascensor\\Ascensor1.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_ascensor\\Ascensor2.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_ascensor\\Ascensor3.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_ascensor\\Ascensor4.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\game_ascensor\\Ascensor5.png"
+            ]
+    },
+    {
+        "rutasind" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_game\\PuntoCarruselEmpty.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_game\\PuntoCarruselFilled.png"
+        ]
+    },
+    {
+        "rutasflecha" : [
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_game\\Flecha derecha.png",
+            "C:\\Users\\Oscar\\Documents\\NetBeansProjects\\Launcher_Universae\\src\\com\\images_game\\Flecha izquierda.png"
+        ]
+    }
+]
+    
