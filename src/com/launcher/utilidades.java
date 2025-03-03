@@ -45,7 +45,7 @@ public class utilidades {
                 }
                 return rutasescudo;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -63,7 +63,7 @@ public class utilidades {
                 }
                 return rutashome;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -81,7 +81,7 @@ public class utilidades {
                 }
                 return rutasembarque;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -99,7 +99,7 @@ public class utilidades {
                 }
                 return rutashemorragia;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -117,7 +117,7 @@ public class utilidades {
                 }
                 return rutasextincion;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -135,7 +135,7 @@ public class utilidades {
                 }
                 return rutasEPIS;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -153,7 +153,7 @@ public class utilidades {
                 }
                 return rutasHelicoptero;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -171,7 +171,7 @@ public class utilidades {
                 }
                 return rutasAscensor;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -189,7 +189,7 @@ public class utilidades {
                 }
                 return rutasind;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
@@ -207,7 +207,7 @@ public class utilidades {
                 }
                 return rutasflecha;
             }catch (JSONException e){
-                e.printStackTrace();;
+                e.printStackTrace();
                 return null;
             } catch (IOException ex) {
                Logger.getLogger(utilidades.class.getName()).log(Level.SEVERE, null, ex);
